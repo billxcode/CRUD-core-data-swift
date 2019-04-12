@@ -1,1 +1,1 @@
-# first-git-project-tutorial
+# CRUD with Core Data Swift
